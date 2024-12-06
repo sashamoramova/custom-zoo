@@ -1,0 +1,5 @@
+DB=postgres://postgres:postgres@127.0.0.1:5432/zoofilia
+PORT=3000
+SECRET_ACCESS_TOKEN=lupa
+SECRET_REFRESH_TOKEN=pupa
+CLIENT_URL=http://localhost:5173
